@@ -1,5 +1,7 @@
 # v-moves
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/klummy/v-moves.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/v-moves.svg?maxAge=1000)](https://www.npmjs.com/package/v-moves)
 <!-- [![dependency Status](https://img.shields.io/david/jeffijoe/v-moves.svg?maxAge=1000)](https://david-dm.org/jeffijoe/v-moves)
 [![devDependency Status](https://img.shields.io/david/dev/jeffijoe/v-moves.svg?maxAge=1000)](https://david-dm.org/jeffijoe/v-moves)
